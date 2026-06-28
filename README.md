@@ -1,8 +1,8 @@
-# Hi, I'm Sabari Rajan M 👋
+# Hi, I'm Sabari Rajan M 
 
 I am a Biotechnology student interested in Bioinformatics, Molecular Docking, Computational Drug Discovery, and Molecular Modelling.
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Bioinformatics
 - Molecular Docking
@@ -13,7 +13,7 @@ I am a Biotechnology student interested in Bioinformatics, Molecular Docking, Co
 - Molecular Modelling
 - AI-assisted molecular generation
 
-## 🧪 Current Research Work
+##  Current Research Work
 
 I am currently working on computational screening of xanthine-based compounds as potential selective TPH1 inhibitors.
 
@@ -28,7 +28,7 @@ The workflow includes:
 - Selectivity comparison
 - Molecular dynamics planning
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Linux
@@ -43,6 +43,6 @@ The workflow includes:
 - Schrödinger Maestro
 - Glide
 
-## 📌 Current Focus
+##  Current Focus
 
 Building strong research experience in computational biology, molecular docking, virtual screening, and structure-based drug discovery.
